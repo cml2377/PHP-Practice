@@ -1,7 +1,9 @@
 # PHP-Practice
 ~~My hello world php code.~~
 
-Now a lightweight calorie counter and tracker.
+Now a lightweight calorie counter and tracker. In progress!
+
+[Click here to check it out.](https://calorie-counter-laravel.herokuapp.com/)
 
 ### Objectives
 
